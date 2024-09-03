@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(46, 46, 46);
+    font-family: "Special Elite", system-ui;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.logbutton {
+    height: 40%; width: 40%;
+    position: relative; top: 30%; left: 30%;
+}
+
+div{
+    background-color: rgb(27, 27, 27);
+    position: absolute; top: 30%; left: 35%;
+    padding: 80px;
+    border-radius: 5%;
+}
+
+input {
+    position: relative;
+    left: 15%;
+}
+
+a :hover {
+    transform: scale(1.2);
+    transition: transform 0.2s;
+}
