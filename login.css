@@ -9,7 +9,7 @@ h1{
 }
 
 .logbutton {
-    height: 50%; width: 50%;
+    height: 50%; width: %;
     position: relative; top: 30%; left: 30%;
 }
 
@@ -32,5 +32,4 @@ a :hover {
 
 .Login {
 height: 200px;
-margin: 2em;
 }
